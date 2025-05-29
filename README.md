@@ -1,8 +1,8 @@
-# 🚗 AutoDriveRL Repository
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/d1633134-0536-4497-a234-ce0d77466330" /># 🚗 AutoDriveRL Repository
 
 Welcome to the **AutoDriveRL** repository! 🎉
 
-📄 **Read the paper**: [SEAS: Self-Evolving Adversarial Safety Optimization for Large Language Models](https://arxiv.org/abs/2408.02632)
+📄 **Read the paper**: [DriveRX: A Vision-Language Reasoning Model for Cross-Task Autonomous Driving](https://arxiv.org/abs/2505.20665)
 
 Here you'll find:
 - 📂 **Datasets** for autonomous driving multi-task learning  
@@ -27,12 +27,12 @@ It focuses on:
 🙏 If you find this useful for your research, please consider citing our paper!
 
 ```bibtex
-@inproceedings{diao2025seas,
-  title={Seas: Self-evolving adversarial safety optimization for large language models},
-  author={Diao, Muxi and Li, Rumei and Liu, Shiyang and Liao, Guogang and Wang, Jingang and Cai, Xunliang and Xu, Weiran},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={39},
-  number={22},
-  pages={23778--23786},
-  year={2025}
+@misc{diao2025driverxvisionlanguagereasoningmodel,
+      title={DriveRX: A Vision-Language Reasoning Model for Cross-Task Autonomous Driving}, 
+      author={Muxi Diao and Lele Yang and Hongbo Yin and Zhexu Wang and Yejie Wang and Daxin Tian and Kongming Liang and Zhanyu Ma},
+      year={2025},
+      eprint={2505.20665},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.20665}, 
 }
