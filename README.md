@@ -1,4 +1,4 @@
-<img width="1512" alt="image" src="https://github.com/user-attachments/assets/d1633134-0536-4497-a234-ce0d77466330" /># 🚗 AutoDriveRL Repository
+# 🚗 AutoDriveRL Repository
 
 Welcome to the **AutoDriveRL** repository! 🎉
 
